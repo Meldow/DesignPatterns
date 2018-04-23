@@ -1,0 +1,10 @@
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.deps.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.pdb
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskovSubstitutionPrinciple.pdb

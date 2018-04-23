@@ -1,0 +1,11 @@
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\bin\Debug\netcoreapp2.0\Decorator_issues.deps.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\bin\Debug\netcoreapp2.0\Decorator_issues.runtimeconfig.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\bin\Debug\netcoreapp2.0\Decorator_issues.runtimeconfig.dev.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\bin\Debug\netcoreapp2.0\Decorator_issues.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\bin\Debug\netcoreapp2.0\Decorator_issues.pdb
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.csprojResolveAssemblyReference.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.csproj.CoreCompileInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.AssemblyInfoInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.AssemblyInfo.cs
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\Decorator_issues\obj\Debug\netcoreapp2.0\Decorator_issues.pdb

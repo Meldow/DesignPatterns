@@ -1,0 +1,11 @@
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.deps.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.runtimeconfig.dev.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\bin\Debug\netcoreapp2.0\BuilderPattern.pdb
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.AssemblyInfo.cs
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.pdb
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\BuilderPattern\obj\Debug\netcoreapp2.0\BuilderPattern.csprojResolveAssemblyReference.cache

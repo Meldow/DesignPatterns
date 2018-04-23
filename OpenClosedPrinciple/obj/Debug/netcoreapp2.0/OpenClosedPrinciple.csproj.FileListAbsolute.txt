@@ -1,0 +1,11 @@
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.AssemblyInfo.cs
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.deps.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.runtimeconfig.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.runtimeconfig.dev.json
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.pdb
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.dll
+D:\NB23176\Desktop\ft\patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.pdb
