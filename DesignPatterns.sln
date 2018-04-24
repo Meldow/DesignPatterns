@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_issues", "Decorator_issues\Decorator_issues.csproj", "{839069E1-27E4-424B-B764-A938552556F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator_issues", "Decorator_issues\Decorator_issues.csproj", "{839069E1-27E4-424B-B764-A938552556F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{C7E02224-6008-46C3-ACC0-F3F8CBE58ED8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{C7E02224-6008-46C3-ACC0-F3F8CBE58ED8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{44A5245C-AE3B-444D-AA56-5CC805B81D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{44A5245C-AE3B-444D-AA56-5CC805B81D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{95C70915-476D-4C2F-AF2F-D59BBF47400B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedPrinciple", "OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{95C70915-476D-4C2F-AF2F-D59BBF47400B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{F681B053-A94F-43D6-BD7F-5D852A5C14B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{F681B053-A94F-43D6-BD7F-5D852A5C14B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{27908852-E5B1-4EE5-838C-1E09F23493D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregationPrinciple", "InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj", "{27908852-E5B1-4EE5-838C-1E09F23493D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{8F43A88F-D82F-43B2-A488-02B026D3278D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversionPrinciple", "DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{8F43A88F-D82F-43B2-A488-02B026D3278D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{2A967DB5-7D7E-4C3B-A8F2-62BB844F8F8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{2A967DB5-7D7E-4C3B-A8F2-62BB844F8F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{89147D2F-80A3-4517-A917-94B4E7A040B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{2A967DB5-7D7E-4C3B-A8F2-62BB844F8F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A967DB5-7D7E-4C3B-A8F2-62BB844F8F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A967DB5-7D7E-4C3B-A8F2-62BB844F8F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89147D2F-80A3-4517-A917-94B4E7A040B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89147D2F-80A3-4517-A917-94B4E7A040B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89147D2F-80A3-4517-A917-94B4E7A040B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89147D2F-80A3-4517-A917-94B4E7A040B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
