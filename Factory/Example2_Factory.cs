@@ -2,10 +2,6 @@
 
 namespace Factory.Example2
 {
-
-
-
-
     public class Point
     {
         private double x, y;
@@ -18,9 +14,13 @@ namespace Factory.Example2
 
         public override string ToString()
         {
-            return $"x: {x} | y: {y}";
+            return $"{nameof(x)}: {x} | {nameof(y)}: {y}";
         }
 
+
+        public static Point Origin = new Point(0, 0);
+
+        // inner class of point so it can access private Point constructor
         public static class Factory
         {
             // factory method
@@ -40,12 +40,10 @@ namespace Factory.Example2
 
     class Example2_FactoryMethod
     {
-        static void Main(string[] args)
-        {
-            Point p = Point.Factory.NewPolarPoint(1.0, Math.PI / 2);
-            Console.WriteLine(p);
-
-
-        }
+        //static void Main(string[] args)
+        //{
+        //    Point p = Point.Factory.NewPolarPoint(1.0, Math.PI / 2);
+        //    Console.WriteLine(p);
+        //}
     }
 }
