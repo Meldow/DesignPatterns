@@ -664,27 +664,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nb23176\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\alexandre.costa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NB23176\\Desktop\\ft\\patterns\\DesignPatterns\\Factory\\Factory.csproj",
+      "projectUniqueName": "C:\\Personal\\DesignPatterns\\Factory\\Factory.csproj",
       "projectName": "Factory",
-      "projectPath": "D:\\NB23176\\Desktop\\ft\\patterns\\DesignPatterns\\Factory\\Factory.csproj",
-      "packagesPath": "C:\\Users\\nb23176\\.nuget\\packages\\",
-      "outputPath": "D:\\NB23176\\Desktop\\ft\\patterns\\DesignPatterns\\Factory\\obj\\",
+      "projectPath": "C:\\Personal\\DesignPatterns\\Factory\\Factory.csproj",
+      "packagesPath": "C:\\Users\\alexandre.costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\DesignPatterns\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\nb23176\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\alexandre.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -692,8 +689,8 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://collab-vsts.pkgs.visualstudio.com/_packaging/OneContact/nuget/v3/index.json": {},
-        "https://collab-vsts.pkgs.visualstudio.com/_packaging/Tools/nuget/v3/index.json": {}
+        "https://nexus.fftech.info/repository/farfetch-nuget-internal/": {},
+        "https://proget.fftech.info/nuget/Farfetch-NuGet-DEV/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

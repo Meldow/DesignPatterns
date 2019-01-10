@@ -1,0 +1,11 @@
+C:\Personal\DesignPatterns\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.deps.json
+C:\Personal\DesignPatterns\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.runtimeconfig.json
+C:\Personal\DesignPatterns\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.runtimeconfig.dev.json
+C:\Personal\DesignPatterns\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.dll
+C:\Personal\DesignPatterns\Sandbox\bin\Debug\netcoreapp2.0\Sandbox.pdb
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.csprojAssemblyReference.cache
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.AssemblyInfoInputs.cache
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.AssemblyInfo.cs
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.dll
+C:\Personal\DesignPatterns\Sandbox\obj\Debug\netcoreapp2.0\Sandbox.pdb
